@@ -1,4 +1,3 @@
-<!-- Banner / intro -->
 <h1 align="center">Hey 👋, Welcome to my GitHub profile</h1>
 <p align="center">I'm Eliott Roussille, a rigorous engineering student in Paris, passionate about software development and technology.</p>
 
@@ -8,12 +7,8 @@
 
 <p align="center">
 <a href="https://github.com/aust-1/github-stats">
-<table>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/aust-1/github-stats/master/generated/overview.svg#gh-dark-mode-only" /></td>
-    <td><img src="https://raw.githubusercontent.com/aust-1/github-stats/master/generated/languages.svg#gh-dark-mode-only" /></td>
-  </tr>
-</table>
+<img src="https://github.com/aust-1/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/aust-1/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
 </p>
 
