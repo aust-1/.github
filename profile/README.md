@@ -1,9 +1,7 @@
 <h1 align="center">Hey 👋, Welcome to my GitHub profile</h1>
 <p align="center">I'm Eliott Roussille, a rigorous engineering student in Paris, passionate about software development and technology.</p>
 
----
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
 <a href="https://github.com/aust-1/github-stats">
@@ -12,13 +10,76 @@
 </a>
 </p>
 
----
+## Languages and Tools:
 
-## 🧑‍💻 About me / À propos de moi
+<p align="left">
+  <!-- Langages principaux -->
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="SQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="40" height="40"/>
+  </a>
+  
+  <!-- Web -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  </a>
+  
+  <!-- Modélisation / dev -->
+  <a href="https://en.wikipedia.org/wiki/Unified_Modeling_Language" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" alt="UML" width="40" height="40"/>
+  </a>
+  
+  <!-- Outils et workflow -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
+  </a>
+  <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" alt="JetBrains" width="40" height="40"/>
+  </a>
+  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="LaTeX" width="40" height="40"/>
+  </a>
+</p>
 
-![C#](https://img.shields.io/badge/C%23-%23512BD4?style=flat&logo=dotnet&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%234B8BBE?style=flat&logo=postgresql&logoColor=white) ![C](https://img.shields.io/badge/C-%23A8B9CC?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat&logo=cplusplus) ![Rust](https://img.shields.io/badge/Rust-In%20progress-%23000000?style=flat&logo=rust&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=flat&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-%232F74C0?style=flat&logo=typescript&logoColor=white) ![Regex](https://img.shields.io/badge/Regex-%23000000?style=flat&logo=remark) ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat&logo=git&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-%234EAA25?style=flat&logo=gnubash&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF?style=flat&logo=githubactions&logoColor=white) ![Makefile](https://img.shields.io/badge/Makefile-%23e37933?style=flat) ![Docker (in progress)](https://img.shields.io/badge/Docker-In%20progress-%232496ED?style=flat&logo=docker) ![Markdown](https://img.shields.io/badge/Markdown-%23000000?style=flat&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080?style=flat&logo=latex&logoColor=white) ![TOML](https://img.shields.io/badge/TOML-%239C4121?style=flat&logo=toml&logoColor=white) ![YAML](https://img.shields.io/badge/YAML-%23CB171E?style=flat&logo=yaml&logoColor=white) ![Docusaurus](https://img.shields.io/badge/Docusaurus-%233ECC5F?style=flat&logo=docusaurus&logoColor=white) ![GraphViz](https://img.shields.io/badge/GraphViz-%231D2B53?style=flat) ![VSCode](https://img.shields.io/badge/VSCode-%23007ACC?style=flat) ![JetBrains](https://img.shields.io/badge/JetBrains-%23000000?style=flat&logo=JetBrains&logoColor=white) ![UML](https://img.shields.io/badge/UML-%23FABD14?style=flat&logo=uml&logoColor=white) ![Unit Testing](https://img.shields.io/badge/Unit%20Testing-%23e17055?style=flat) ![Format / Lint](https://img.shields.io/badge/Format%20%2F%20Lint-%239e7dff?style=flat) ![Code Clarity](https://img.shields.io/badge/Code%20Clarity-%2300b894?style=flat) ![Autonomous](https://img.shields.io/badge/Autonomous-%23fdcb6e?style=flat) ![Team Collaboration](https://img.shields.io/badge/Team%20Collaboration-%23fab1a0?style=flat)
-
-### 🇬🇧 English
+## About me
 
 I'm currently studying at **ESILV**, a French engineering school in Paris, where I plan to specialize in **data and artificial intelligence**.
 I love writing clean and efficient code, mostly in **C#** and **Python**.
@@ -26,7 +87,7 @@ I love writing clean and efficient code, mostly in **C#** and **Python**.
 I'm also actively involved in two tech-focused associations:
 
 - 🛠 [**DeVinci Fablab**](https://github.com/DeVinci-Fablab) — I am training responsible and digital pole executive, I contributed to the [**FablaBot Discord bot**](https://github.com/DeVinci-Fablab/FablaBot) and to the [documentation website](https://docs.devinci-fablab.fr)
-- 🤖 [**DaVinciBot**](https://github.com/DaVinciBot) — We design autonomous robots and compete in the [**Coupe de France de Robotique**](https://www.coupederobotique.fr/) every year. Our code is available on [GitHub](https://github.com/DaVinciBot/CoupeDeRobotique).
+- 🤖 [**DaVinciBot**](https://github.com/DaVinciBot) — We design autonomous robots and compete in the [Coupe de France de Robotique](https://www.coupederobotique.fr/) every year. Our code is available on [**GitHub**](https://github.com/DaVinciBot/CoupeDeRobotique).
 
 At ESILV, I worked on several impactful projects:
 
@@ -41,27 +102,12 @@ Among my personal projects:
 
 *(More personal projects will be added soon...)*
 
----
-
-### 🇫🇷 Français
-
-Je suis actuellement étudiant à **l'ESILV** à Paris, où je compte me spécialiser en **data et intelligence artificielle**.
-Je suis passionné par la programmation propre, rigoureuse et efficace, en particulier en **C#** et **Python**.
-
-Je participe activement à deux associations techniques :
-
-- 🛠 [**DeVinci Fablab**](https://github.com/DeVinci-Fablab) — Je suis responsable formations et chargé numérique, j'ai contribué au [bot Discord FablaBot](https://github.com/DeVinci-Fablab/FablaBot) et au [site de documentation](https://docs.devinci-fablab.fr).
-- 🤖 [**DaVinciBot**](https://github.com/DaVinciBot) — Je participe à la conception de robots pour la [**Coupe de France de Robotique**](https://www.coupederobotique.fr/). Notre code est disponible sur [GitHub](https://github.com/DaVinciBot/CoupeDeRobotique).
-
-Pendant ma scolarité, j'ai mené plusieurs projets :
-
-- 🧩 Deux projets de développement logiciel en C# ([Boggle](https://github.com/aust-1/Boggle), [Liv'In Paris](https://github.com/aust-1/LivInParis))
-- 📊 Un projet d'analyse statistique en Python ([Stats Bibliothèques](https://github.com/aust-1/stats_bibliotheques))
-
-J'aime aussi les défis comme ceux sur les divers sites de [WeChall](https://www.wechall.net/).
-
-Parmi mes projets personnels :
-
-- 🧠 Un [solver de CTC Sudoku](https://github.com/aust-1/sudoku_solver) (type de Sudoku avec des contraintes supplémentaires) en Python, utilisant des techniques de recherche et d'optimisation.
-
-*(D'autres projets personnels seront ajoutés bientôt...)*
+### Connect with me:
+<p align="left">
+  <a href="https://linkedin.com/in/eliott-roussille" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="eliott-roussille" height="40" width="40" />
+  </a>
+  <a href="mailto:eliottroussille@gmail.com" target="blank">
+    <img align="center" src="https://www.svgrepo.com/show/479653/email-9.svg" alt="eliottroussille@gmail.com" height="40" width="40" />
+  </a>
+</p>
