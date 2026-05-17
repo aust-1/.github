@@ -5,8 +5,8 @@
 
 <p align="center">
 <a href="https://github.com/aust-1/github-stats">
-<img src="https://github.com/aust-1/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/aust-1/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/aust-1/github-stats/blob/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/aust-1/github-stats/blob/generated/languages.svg#gh-dark-mode-only" />
 </a>
 </p>
 
