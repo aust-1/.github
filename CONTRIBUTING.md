@@ -58,10 +58,10 @@ The use of emojis in commit messages is encouraged to make the messages more eng
 All contributions should follow the [GitFlow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) branching model. The main branches are:
 
 - `main`: The main branch for the project. This branch should always be stable and deployable.
-- `develop`: The development branch for the project. All feature branches should be merged into this branch.
-- `feature_*`: Feature branches for new functionality. These branches should be merged into the `develop` branch.
-- `hotfix_*`: Hotfix branches for critical bug fixes. These branches should be merged into the `main` and `develop` branches.
-- `release_*`: Release branches for preparing a new release. These branches should be merged into the `main` and `develop` branches.
+- `dev`: The development branch for the project. All feature branches should be merged into this branch.
+- `feature_*`: Feature branches for new functionality. These branches should be merged into the `dev` branch.
+- `hotfix_*`: Hotfix branches for critical bug fixes. These branches should be merged into the `main` and `dev` branches.
+- `release_*`: Release branches for preparing a new release. These branches should be merged into the `main` and `dev` branches.
 - `support_*`: Support branches for long-term support. These branches should be merged into the `main` branch.
 - `docs_*`: Documentation branches for updating the documentation. These branches should be merged into the `main` branch.
 
