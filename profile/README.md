@@ -16,7 +16,7 @@
 
 ## Frameworks & Runtimes
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,svelte,tailwind,vite,dotnet,flask,fastapi,nodejs,graphql" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,svelte,tailwind,vite,dotnet,flask,fastapi,nodejs,graphql,discordjs" />
 
 ## DevOps, Cloud & Data
 
