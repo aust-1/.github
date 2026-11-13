@@ -46,8 +46,8 @@ I also enjoy technical challenges like those on the various [WeChall](https://ww
 Among my personal projects:
 
 - 🧠 A [CTC Sudoku solver](https://github.com/aust-1/sudoku_solver) (type of Sudoku with additional constraints) in Python, using search and optimization techniques.
-
-*(More personal projects will be added soon...)*
+- 🎵 [Deezer Export](https://github.com/aust-1/deezer-export), a Python tool to export a Deezer playlist (public or private) to an Excel workbook, via CLI or website.
+- 🚇 [Seterra Parisian Metro](https://github.com/aust-1/seterra-parisian-metro), an offline Android quiz app to learn Paris metro stations, built with Kotlin and Jetpack Compose.
 
 ### Connect with me:
 <p align="left">
