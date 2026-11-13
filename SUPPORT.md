@@ -1,6 +1,6 @@
 # Welcome to the support guidelines
 
-If you have any questions, issues, or feedback regarding the project you're in the right place! Please take a moment to review the guidelines below before proceeding:
+If you have any questions, issues, or feedback regarding the project, you're in the right place! Please take a moment to review the guidelines below before proceeding:
 
 ## Before Opening an Issue
 
