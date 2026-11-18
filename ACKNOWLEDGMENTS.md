@@ -1,32 +1,27 @@
 # Acknowledgments
 
-This file serves to give credit to the people and projects that helped make this project possible.
+> [!NOTE]
+> This file is a template. It is not a community health file, so GitHub does not apply it to other repositories. Copy it into a repository, replace every `<placeholder>`, delete the sections that do not apply and remove this note.
+
+
+This file gives credit to the people and projects that helped make this project possible.
 
 ## Contributors
 
-We would like to express our gratitude to the following individuals for their contributions to the project:
+We would like to thank the following people for their contributions to the project:
 
-- **[Name1](https://github.com/Name1)**: how they contributed.
-- **[Name2](https://github.com/Name2)**: how they contributed.
-- **[Name3](https://github.com/Name3)**: how they contributed.
+- **`<name>`** (`<link to their GitHub profile>`): `<how they contributed>`.
 
-We also want to thank all the users and supporters of the project for using it. Your input helps us understand possible use cases and make necessary improvements.
+We also want to thank all the users of the project. Your feedback helps us understand how it is used and what to improve.
 
-If we've inadvertently missed anyone, please let us know, and we'll make sure to include them.
+If we have inadvertently missed anyone, please let us know and we will add them.
 
 ## Projects
 
 The project makes use of the following open source projects:
 
-### @author/project
+### `<owner>/<project>`
 
-How we used the project in our project.
-
-```plaintext
-License text and/or link.
-```
-
----
-
-> [!NOTE]
-> This acknowledgments file is regularly updated to recognize new contributions and support.
+- Link: `<link to the project>`
+- Usage: `<how the project is used>`
+- License: `<license name and link>`
