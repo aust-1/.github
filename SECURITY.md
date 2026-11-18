@@ -2,20 +2,15 @@
 
 ## Supported Versions
 
-| Version | Supported |
-| ------- | --------- |
-| 1.1.x   | ✅        |
-| 1.1.2   | ❌        |
-| 1.1.0   | ✅        |
-| 1.0.x   | ✅        |
-| 1.0.0   | ❌        |
-
-1.1.2: Explain why this version is not supported anymore.
-
-1.0.0: Precise if related to some issues.
+None of these repositories publishes versioned releases. Only the latest state of the default branch (usually `main`) is maintained: security fixes are applied there and are not backported to older commits.
 
 ## Reporting a Vulnerability
 
-To report a minor vulnerability, please open an issue on this repository. To report a major vulnerability, please send an email to this adress: <eliottroussille@gmail.com> and do **not** create a public issue.
+Please report every vulnerability privately, whatever its severity, and do **not** open a public issue, pull request or comment about it.
 
-We will be reactive and we will coordinate with you to verify the issue and release a fix as soon as possible.
+- **By email**: send the details to <eliottroussille@gmail.com>.
+- **Through GitHub**: if the repository's **Security** tab offers **Report a vulnerability**, you can use GitHub's private vulnerability reporting instead.
+
+Please include the affected repository, a description of the issue, the steps to reproduce it and, if possible, its potential impact.
+
+You should receive an acknowledgment within 7 days. We will then work with you to confirm the issue, prepare a fix and agree on when it can be disclosed publicly.
