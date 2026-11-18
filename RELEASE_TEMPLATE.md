@@ -1,3 +1,10 @@
+<!--
+  Replace X.Y.Z, YYYY-MM-DD, REPOSITORY (repository name) and vPREVIOUS (previous tag)
+  before publishing, and delete the sections and lines that do not apply.
+  If the repository has a CHANGELOG.md, you can link to it instead of the comparison:
+  [CHANGELOG.md](https://github.com/aust-1/REPOSITORY/blob/vX.Y.Z/CHANGELOG.md)
+-->
+
 # Release X.Y.Z - YYYY-MM-DD
 
 ## TL; DR 🎯
@@ -43,9 +50,9 @@ An extra short summary of these notes goes here.
 
 ## FEEDBACK 📃
 
-We are always open for feedback and discussions. If you are using our project and want to share your use case, or if you have any suggestions for improvement, please feel free to [open an issue](LINK) or [open a discussion](LINK) on our GitHub repository. Your input helps us understand possible use cases and make necessary improvements.
+We are always open for feedback. If you are using our project and want to share your use case, or if you have any suggestions for improvement, please feel free to [open an issue](https://github.com/aust-1/REPOSITORY/issues/new/choose) on our GitHub repository. Your input helps us understand possible use cases and make necessary improvements.
 
 ---
 
-**Full changelog**: [CHANGELOG.md](CHANGELOG.md)
-**Command usage**: [Docs](https://example.com/docs)
+**Full changelog**: https://github.com/aust-1/REPOSITORY/compare/vPREVIOUS...vX.Y.Z
+**Documentation**: [README](https://github.com/aust-1/REPOSITORY/blob/vX.Y.Z/README.md)
