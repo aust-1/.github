@@ -5,8 +5,10 @@
 
 <p align="center">
 <a href="https://github.com/aust-1/github-stats">
-<img src="https://github.com/aust-1/github-stats/blob/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/aust-1/github-stats/blob/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/aust-1/github-stats/blob/generated/overview.svg#gh-dark-mode-only" alt="Statistiques GitHub d'Eliott Roussille" />
+<img src="https://github.com/aust-1/github-stats/blob/generated/languages.svg#gh-dark-mode-only" alt="Langages les plus utilisés" />
+<img src="https://github.com/aust-1/github-stats/blob/generated/overview.svg#gh-light-mode-only" alt="Statistiques GitHub d'Eliott Roussille" />
+<img src="https://github.com/aust-1/github-stats/blob/generated/languages.svg#gh-light-mode-only" alt="Langages les plus utilisés" />
 </a>
 </p>
 
