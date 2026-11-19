@@ -12,7 +12,9 @@ Please adhere to our [Code of Conduct](./CODE_OF_CONDUCT.md) in all your interac
 
 ## Internationalization (I18N)
 
-All contributions should be in English to ensure that all members of the community can understand and contribute to the project. Translations can be provided in addition to the English version. It is recommended to use the [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) standard for language codes.
+Contributions (documentation, issues, pull requests and commit messages) should be written in the language of the repository, which is the language of its `README.md`: French for most repositories, English for the others.
+
+Translations can be provided in addition to the main version. It is recommended to use the [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) standard for language codes.
 
 ## Code Style Guidelines
 
@@ -33,7 +35,7 @@ Documentation is mandatory for all contributions, including code, issues, and pu
 
 ## Deployment
 
-Every solution involving deployment should include a Docker deployment option, with a `compose.yml` and `Dockerfile` if necessary. The deployment process should be:
+Projects meant to run as a long-lived service on a server (website, API, bot) should provide a Docker deployment option: a `Dockerfile` if necessary and a Compose file, named either `compose.yml` or `docker-compose.yml`. Command-line tools, libraries, notebooks and mobile apps do not need one. The deployment process should be:
 
 - As simple as possible
 - Documented in the `README.md` file
@@ -55,15 +57,22 @@ The use of emojis in commit messages is encouraged to make the messages more eng
 
 ## Git strategy
 
-All contributions should follow the [GitFlow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) branching model. The main branches are:
+Most repositories use a simple branching model:
 
-- `main`: The main branch for the project. This branch should always be stable and deployable.
-- `dev`: The development branch for the project. All feature branches should be merged into this branch.
-- `feature_*`: Feature branches for new functionality. These branches should be merged into the `dev` branch.
-- `hotfix_*`: Hotfix branches for critical bug fixes. These branches should be merged into the `main` and `dev` branches.
-- `release_*`: Release branches for preparing a new release. These branches should be merged into the `main` and `dev` branches.
-- `support_*`: Support branches for long-term support. These branches should be merged into the `main` branch.
-- `docs_*`: Documentation branches for updating the documentation. These branches should be merged into the `main` branch.
+- The default branch (`main`, or `master` in a few older repositories) should always be stable and deployable.
+- Every change is made on a short-lived branch created from the default branch, then merged through a pull request.
+
+Branch names follow the `<type>_<short_description>` pattern, with underscores, for example `fix_oauth_code_logs` or `docs_security_policy`. The type is one of:
+
+- `feature_*`: new functionality.
+- `fix_*`: bug fixes.
+- `docs_*`: documentation only.
+- `ci_*`: continuous integration and workflows.
+- `chore_*`: maintenance (dependencies, tooling, cleanup).
+
+Repositories that have a `dev` branch follow the [GitFlow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) branching model instead: branches are created from `dev` and merged back into it, and `dev` is merged into the default branch for each release. In these repositories, `hotfix_*` branches for critical fixes are created from the default branch and merged into both the default branch and `dev`.
+
+Check the repository's `README.md` for any specific rule.
 
 ---
 
