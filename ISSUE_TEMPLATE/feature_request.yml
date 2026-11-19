@@ -1,44 +1,46 @@
-name: 💡 Feature Request
-description: Suggest an idea for this project
-title: "[FEATURE]: "
+name: 💡 Proposer une fonctionnalité
+description: Proposer une nouvelle fonctionnalité ou une évolution
+title: "[Feature] "
 labels: [enhancement]
+type: Feature
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this feature request!
-
-  - type: input
-    id: contact
-    attributes:
-      label: Contact Details
-      description: How can we get in touch with you if we need more info? (optional)
-      placeholder: ex. email@example.com
-    validations:
-      required: false
+        Merci de prendre le temps de proposer une évolution ! Vérifiez d'abord qu'une issue n'existe pas déjà pour cette idée.
 
   - type: textarea
     id: description
     attributes:
-      label: Feature Description
-      description: Describe the feature you'd like
+      label: Description
+      description: Décrivez la fonctionnalité souhaitée et le problème qu'elle résout.
     validations:
       required: true
 
   - type: textarea
-    id: motivation
+    id: expected
     attributes:
-      label: Why is this useful?
-      description: What problem does this solve?
-      placeholder: Explain why this feature is important
+      label: Comportement attendu
+      description: Comment la fonctionnalité devrait-elle se comporter ? Une liste numérotée est la bienvenue.
+      placeholder: |
+        1. …
+        2. …
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: Résultat actuel
+      description: Ce qui se passe aujourd'hui, sans cette fonctionnalité.
     validations:
       required: false
 
   - type: checkboxes
     id: terms
     attributes:
-      label: Code of Conduct
-      description: By submitting this feature request, you agree to follow our [Code of Conduct](../CODE_OF_CONDUCT.md).
+      label: Code de conduite
+      description: En ouvrant cette issue, vous acceptez de respecter le [code de conduite](https://github.com/aust-1/.github/blob/main/CODE_OF_CONDUCT.md).
       options:
-        - label: I agree to follow this project's Code of Conduct
+        - label: J'accepte de respecter le code de conduite de ce projet
           required: true

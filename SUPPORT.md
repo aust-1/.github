@@ -14,9 +14,12 @@ If you have any questions, issues, or feedback regarding the project, you're in 
 
 If you couldn't find an answer to your question or if you encountered a bug, please open a new issue using the appropriate template:
 
-- **Bug Report**: Use the bug report template if you've encountered an issue with a functionality.
-- **Feature Request**: Use the feature request template if you have a suggestion for a new feature or enhancement.
-- **Question or Support Request**: Use this template if you have a general question about the project or need assistance with using it.
+- **🐛 Signaler un bug** (`[Bug]`): Use the bug report form if you've encountered an issue with a functionality.
+- **💡 Proposer une fonctionnalité** (`[Feature]`): Use the feature request form if you have a suggestion for a new feature or enhancement.
+- **🛠️ Tâche** (`[Task]`): Use the task form for documentation, tooling or maintenance work.
+- **❓ Question ou demande d'aide** (`[Question]`): Use this form if you have a general question about the project or need assistance with using it.
+
+To report a security vulnerability, do not open an issue: follow the [security policy](SECURITY.md) instead.
 
 ## Guidelines for Issue Creation
 
