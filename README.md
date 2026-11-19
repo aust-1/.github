@@ -8,7 +8,7 @@ GitHub automatically applies these files to every repository of the account that
 
 | File | Purpose |
 | ---- | ------- |
-| [`CONTRIBUTING.md`](./CONTRIBUTING.md) | Contribution guidelines (code style, documentation, testing, Conventional Commits, GitFlow branching) |
+| [`CONTRIBUTING.md`](./CONTRIBUTING.md) | Contribution guidelines (language, code style, documentation, deployment, testing, Conventional Commits, branching model) |
 | [`CODE_OF_CONDUCT.md`](./CODE_OF_CONDUCT.md) | Code of conduct for all interactions |
 | [`SECURITY.md`](./SECURITY.md) | Security policy and how to report a vulnerability |
 | [`SUPPORT.md`](./SUPPORT.md) | Support guidelines and how to open an issue |
