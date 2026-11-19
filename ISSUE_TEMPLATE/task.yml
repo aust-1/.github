@@ -1,0 +1,45 @@
+name: 🛠️ Tâche
+description: Documentation, outillage, maintenance ou nettoyage, sans nouvelle fonctionnalité
+title: "[Task] "
+type: Task
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Une tâche couvre un travail de documentation, d'outillage (CI, dépendances…) ou de maintenance. Pour un comportement incorrect, utilisez plutôt le formulaire de bug.
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Décrivez la situation actuelle et ce qui pose problème. Citez les fichiers concernés si possible.
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Comportement attendu
+      description: Ce qui doit être fait. Une liste numérotée est la bienvenue.
+      placeholder: |
+        1. …
+        2. …
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: Résultat actuel
+      description: Résumé de la situation actuelle, en une ou deux phrases.
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code de conduite
+      description: En ouvrant cette issue, vous acceptez de respecter le [code de conduite](https://github.com/aust-1/.github/blob/main/CODE_OF_CONDUCT.md).
+      options:
+        - label: J'accepte de respecter le code de conduite de ce projet
+          required: true

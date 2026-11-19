@@ -13,7 +13,7 @@ GitHub automatically applies these files to every repository of the account that
 | [`SECURITY.md`](./SECURITY.md) | Security policy and how to report a vulnerability |
 | [`SUPPORT.md`](./SUPPORT.md) | Support guidelines and how to open an issue |
 | [`ACKNOWLEDGMENTS.md`](./ACKNOWLEDGMENTS.md) | Template to credit contributors and used projects |
-| [`ISSUE_TEMPLATE/`](./ISSUE_TEMPLATE) | Issue forms: bug report, feature request, question or support request |
+| [`ISSUE_TEMPLATE/`](./ISSUE_TEMPLATE) | Issue forms (bug report, feature request, task, question) and `config.yml` (no blank issues, link to the security policy) |
 | [`PULL_REQUEST_TEMPLATE.md`](./PULL_REQUEST_TEMPLATE.md) | Default pull request template |
 | [`RELEASE_TEMPLATE.md`](./RELEASE_TEMPLATE.md) | Template for release notes |
 | [`profile/README.md`](./profile/README.md) | Profile README displayed on [github.com/aust-1](https://github.com/aust-1) |
